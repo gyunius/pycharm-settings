@@ -939,6 +939,11 @@
             <FeaturePluginsList>
               <option name="featureMap">
                 <map>
+                  <entry key="AutoCp">
+                    <value>
+                      <FeaturePluginData displayName="AutoCp Solution" pluginName="AutoCp" pluginId="com.github.pushpavel.autocp" />
+                    </value>
+                  </entry>
                   <entry key="CompoundRunConfigurationType">
                     <value>
                       <FeaturePluginData displayName="Compound" pluginName="IDEA CORE" pluginId="com.intellij" />
